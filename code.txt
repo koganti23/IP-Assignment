@@ -1,0 +1,1 @@
+This file contains all the code developed by the developers to luanch applications
